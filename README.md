@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rogiermrs
 - 👀 I’m interested in IT
 - 🌱 I’m currently studying Business IT & Management
-- 💞️ I’m sharing my work for educational purposes ...
+- 💞️ I’m sharing my work for educational/portfolio purposes ...
 - 📫 How to reach me ..<<<
 
 <!---
